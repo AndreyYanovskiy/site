@@ -1,0 +1,9 @@
+.git {
+    wright: 50px;
+    height: 120px;
+    border: 1px black dashed;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    cursor: pointer;
+}
